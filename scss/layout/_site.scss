@@ -108,14 +108,16 @@ footer {
 /* 
 ========================================================================== */
 .block-anchor {
-	background: rgba(0,0,0,.3);
-	border: 1px solid #fff;
+	background: rgba(0,0,0,.2);
+	border: 3px double #fff;
 	color: #fff;
 	display: inline-block;
-	margin-top: 1em;
-	letter-spacing: 2px;
-	padding: 3px 10px;
-	text-transform: uppercase;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 13px;
+	margin-top: 25px;
+	letter-spacing: 3px;
+	padding: 5px 17px;
 	-webkit-transition: all .1s linear;
 	&:hover {
 		background: #fff;
@@ -124,8 +126,22 @@ footer {
 	}
 }
 
+.one-img {
+	position: fixed;
+	top: 150px;
+	left: 10px;
+	width: 600px;
+}
 
-
-
+/* EXCEL
+========================================================================== */
+.curtains .quote-test {
+	background: url(../images/bg-gotta-go-pitch.jpg) no-repeat center top;
+	background-size: cover;
+}
+.quote {
+	margin: 0 auto;
+	display: block;
+}
 
 

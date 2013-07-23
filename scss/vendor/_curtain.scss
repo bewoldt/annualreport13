@@ -2,14 +2,12 @@ html{
     height: 100%;
     overflow-x: hidden;
 }
-
-.curtains{
+.curtains {
     width: 100%;
     z-index:1;
     position:relative;
 }
-
-.curtains>li{
+.curtains > li {
     -webkit-transform:translateZ(0);
     background: white;
     position: fixed;
@@ -21,29 +19,19 @@ html{
     overflow: hidden;
     z-index:1;
 }
-.curtains>li.hidden{display:none;}
-.curtains>li:first-child{z-index:2;}
+.curtains > li.hidden{display:none;}
+.curtains > li:first-child{z-index:2;}
 
 
 
 /* ===== Example CSS ===== */
-/* Curtain.js - Example page */
-
-/* Clearfix */
-.cf:before,
-.cf:after { content:"";display:table; }
-.cf:after { clear:both; }
-.cf { zoom:1;}
-
-article{
-    text-align:center;
-    padding:150px 0;
-    width:250px;
-    margin:0 auto;
+article.container {
+    text-align: center;
+    padding: 150px 0;
 }
 
-article h4:first-child{ margin:0; }
-article p{ text-align:justify; }
+article h4:first-child {margin:0;}
+article p {text-align:justify;}
 
 .button{
     display:inline-block;
@@ -68,38 +56,19 @@ article p{ text-align:justify; }
 
 
 /* Sliding panels */
-.curtains>li {
-    background:#FFF url(../images/blizzard.png);
-    box-shadow:0 0 12px #666;
+.curtains > li {
+    box-shadow: 0 0 12px #666;
 }
-.curtains>li:last-child{box-shadow:none}
-
-/* MENU */
-#menu{
-    position:fixed;
-    top:20px;
-    left:20px;
-    z-index:20;
-    padding:10px;
-    background-color:#000;
-}
-#menu li{margin:0}
-#menu a{
-    margin:0;
-    color:#FFF;
-}
-
+.curtains > li:last-child{box-shadow:none}
 
 
 /* Section 1 */
-
-#section-1{
-    background:url(../images/eiffel-2.jpg) 50% 0 no-repeat;
-    background-size:cover;
+.curtains .section-1{
+    background: url(../images/eiffel-2.jpg) 50% 0 no-repeat;
+    background-size: cover;
 }
-
-    #section-1 header{
-        color:#FFF;
+    .curtains .section-1 header{
+        color:#fff;
         position:absolute;
         top:30%;
         left:50%;
@@ -109,51 +78,52 @@ article p{ text-align:justify; }
         text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
         line-height:1.1;
     }
-
-    #section-1 h1{
+    .curtains .section-1 h1{
+        color: #fff;
         font-size:120px;
     }
-
-    #section-1 h2{
+    .curtains .section-1 h2 {
+        color: #fff;
         text-transform:capitalize;
         opacity:.75;
         font-size:48px;
     }
 
-/* Section 2 */
-#section-2{
+
+/* #section-photos */
+.section-photos .photos{
+    padding: 150px 0;
+    width: 620px;
+    margin: 0 auto;
+    position: relative;
+}
+.section-photos .photos > :last-child{
+    margin-bottom:0
+}
+.section-photos .fixed {
+    position: fixed;
+    top: 150px;
+    left: 0;
+    width: 200px;
+}
+.section-photos .photos-inner {
+    margin-left: 220px;
+    width: 400px;
+}
+.section-photos .photos-inner img{
+    display:block;
+    margin:0 0 4em 0;
+    max-width:100%;
+    background: #fff; 
+    border-radius: 1px; 
+    padding: 14px 14px 63px 14px; 
+    box-shadow: 0 1px 3px rgba(0,0,0,.2), 0 1px 0 rgba(0,0,0,.1); 
 }
 
 
-/* Section 3 */
-#section-3{
-    
+.curtains p {
+    font-family: georgia;
+    font-size: 17px;
 }
-    #section-3 .photos{
-        padding:150px 0;
-        width:620px;
-        margin-left:150px;
-    }
-        #section-3 .photos > :last-child{margin-bottom:0}
 
-        #section-3 .fixed{
-            position: fixed;
-            top: 150px;
-            left: 150px;
-            width: 200px;
-        }
 
-        #section-3 .photos-inner{
-            margin-left:220px;
-            width:400px;
-        }
-
-        #section-3  .photos-inner img{
-            display:block;
-            margin:0 0 4em 0;
-            max-width:100%;
-            background: #fff; 
-            border-radius: 1px; 
-            padding: 14px 14px 63px 14px; 
-            box-shadow: 0 1px 3px rgba(0,0,0,.2), 0 1px 0 rgba(0,0,0,.1); 
-        }

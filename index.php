@@ -40,7 +40,7 @@
                 <div class="slide-content">
                     <h1>Excel</h1>
                     <p>Academic excellence means setting and meeting high standards for yourself as a student. Faculty, staff and other students will ask you to work hard and push yourself intellectually. We expect a lot of you; you should expect only the best from yourself and the University.</p>
-                    <a href="excel.php" class="block-anchor">View the stories</a>
+                    <a href="excel.php" class="block-anchor">Read The Stories</a>
                 </div>
             </li>
             <li>
@@ -50,7 +50,7 @@
                     <h1>Stretch</h1>
                     <div>
                         <p>At Iowa, you will find diversity of people, ideas, opportunities, and experiences. That diversity is one of the benefits of being an Iowa student. Step away from the familiar, try new ideas, experience new cultures, and learn from people different from yourself.</p>
-                        <a href="#" class="block-anchor">View the stories</a>
+                        <a href="#" class="block-anchor">Read The Stories</a>
                     </div>
                 </div>
             </li>
@@ -61,7 +61,7 @@
                     <h1>Engage</h1>
                     <div>
                         <p>You will be a more successful student and enjoy yourself more if you spend your time and energy on activities that matter. The University of Iowa offers almost limitless opportunities and the resources to help you become a leader in and out of the classroom. Take advantage of them.</p>
-                        <a href="#" class="block-anchor">View the stories</a>
+                        <a href="#" class="block-anchor">Read The Stories</a>
                     </div>
                 </div>
             </li>
@@ -72,7 +72,7 @@
                     <h1>Choose</h1>
                     <div>
                         <p>Every day you make decisions that affect your education and your future. Take your choices seriously and use your freedom wisely. Your Iowa education is what you make it. Make it something you and your university can be proud of.</p>
-                        <a href="#" class="block-anchor">View the stories</a>
+                        <a href="#" class="block-anchor">Read The Stories</a>
                     </div>
                 </div>
             </li>
@@ -83,7 +83,7 @@
                     <h1>Serve</h1>
                     <div>
                         <p>As an Iowa student, you are a member of many communities, on and off the campus. You have the opportunity and responsibility to be a good neighbor and citizen and to serve the community. Make your community a great place to live.</p>
-                        <a href="#" class="block-anchor">View the stories</a>
+                        <a href="#" class="block-anchor">Read The Stories</a>
                     </div>
                 </div>
             </li>
