@@ -23,4 +23,7 @@ $(window).load(function() {
 		closeEffect	: 'none'
 	});
 
+	// Curatin.js
+	$('.curtains').curtain();
+
 });

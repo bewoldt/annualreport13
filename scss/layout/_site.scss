@@ -17,25 +17,115 @@ body {
 ========================================================================== */
 .container {
 	margin: 0 auto;
-	max-width: 1140px;
+	max-width: 980px;
 	padding: 0 1em;
+}
+
+/* NAV
+========================================================================== */
+.top-nav {
+	position: absolute;
+	text-align: center;
+	top: 20px;
+	width: 500px;
+	left: 50%;
+	margin-left: -250px;
+	z-index: 100;
+}
+.top-nav li {
+	display: inline-block;
+	margin: 0 5px;
+}
+.top-nav li a {
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+/* INTRO
+========================================================================== */
+.story-intro {
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 455px;
+	width: 100%;
+}
+.excel .story-intro {
+	background: url(../images/header-story-excel.jpg) no-repeat center top;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.story-intro h2 {
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+	padding-top: 140px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.story-intro h1 {
+	font-size: 50px;
+	letter-spacing: .1em;
+	font-weight: normal;
+	margin: 0;
+	text-align: center;
+}
+.intro-holder {
+	width: 510px;
+	padding: 5px;
+	border: 2px solid #fff;
+	margin: 25px auto 0;
+}
+.holder-inner {
+	background: #fff;
+	padding: 20px 30px;
+	text-align: center;
+	font-size: 13px;
+	color: #555;
+}
+
+/* STORY
+========================================================================== */
+.story {
+	padding: 3em 0;
 }
 
 
 /* FOOTER
 ========================================================================== */
 footer {
+	font-size: 13px;
 	z-index: 10000;
 	position: relative;
-	width: 100%;
-	height: 130px;
-	padding-top: 50px;
-	background: url('../img/nav/footer-bg.jpg') no-repeat 0 0;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	font: 14px/24px Arial, Helvetica, sans-serif;
+	padding: 40px 0;
 	color: #666;
 }
+
+/* 
+========================================================================== */
+.block-anchor {
+	background: rgba(0,0,0,.3);
+	border: 1px solid #fff;
+	color: #fff;
+	display: inline-block;
+	margin-top: 1em;
+	letter-spacing: 2px;
+	padding: 3px 10px;
+	text-transform: uppercase;
+	-webkit-transition: all .1s linear;
+	&:hover {
+		background: #fff;
+		color: #333;
+		text-decoration: none;
+	}
+}
+
+
+
+
+
 
