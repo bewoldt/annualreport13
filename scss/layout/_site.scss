@@ -144,4 +144,24 @@ footer {
 	display: block;
 }
 
+/* STRETCH
+========================================================================== */
+.panel-left {
+	height: 100%;
+	position: fixed;
+	position: device-fixed;
+	top: 0;
+	left: 0;
+	background-color: #F8F9F8;
+	border-right: solid 1px #FCFCFC;
+	width: 200px;
+}
+.panel-right {
+	background: #fff;
+	height: auto;
+	position: relative;
+	margin-left: 200px;
+	padding: 1px 0;
+	top: 0;
+}
 

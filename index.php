@@ -36,7 +36,6 @@
             </li>
             <li>
                 <img src="images/ballet.jpg" width="1024" height="682" alt="" class="slide-img">
-                <div class="overlay"></div>
                 <div class="slide-content">
                     <h1>Excel</h1>
                     <p>Academic excellence means setting and meeting high standards for yourself as a student. Faculty, staff and other students will ask you to work hard and push yourself intellectually. We expect a lot of you; you should expect only the best from yourself and the University.</p>
@@ -45,7 +44,6 @@
             </li>
             <li>
                 <img src="images/slide_fraternity.jpg" width="1024" height="683" alt="" class="slide-img">
-                <div class="overlay"></div>
                 <div class="slide-content">
                     <h1>Stretch</h1>
                     <div>
@@ -55,8 +53,7 @@
                 </div>
             </li>
             <li>
-                <img src="images/slide_cheer.jpg" width="1024" height="685" alt="" class="slide-img">
-                <div class="overlay"></div>
+                <img src="images/slide_leadership.jpg" width="1024" height="685" alt="" class="slide-img">
                 <div class="slide-content">
                     <h1>Engage</h1>
                     <div>
@@ -66,8 +63,7 @@
                 </div>
             </li>
             <li>
-                <img src="images/lunar-anthem.jpg" width="1024" height="685" alt="" class="slide-img">
-                <div class="overlay"></div>
+                <img src="images/slide_lgbt.jpg" width="1024" height="685" alt="" class="slide-img">
                 <div class="slide-content">
                     <h1>Choose</h1>
                     <div>
@@ -77,8 +73,7 @@
                 </div>
             </li>
             <li>
-                <img src="images/finkbine.jpg" width="1024" height="685" alt="" class="slide-img">
-                <div class="overlay"></div>
+                <img src="images/slide_apacc.jpg" width="1024" height="685" alt="" class="slide-img">
                 <div class="slide-content">
                     <h1>Serve</h1>
                     <div>
