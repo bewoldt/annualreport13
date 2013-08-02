@@ -24,6 +24,9 @@ $(window).load(function() {
 	});
 
 	// Curatin.js
-	$('.curtains').curtain();
+	//$('.curtains').curtain();
+
+	// Localscroll
+	$('.story-nav').localScroll();
 
 });
