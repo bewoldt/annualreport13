@@ -1,8 +1,8 @@
 <?php include 'inc/doctype.php'; ?>
 <?php include 'inc/meta.php'; ?>
 <title>Home - Annual Report 2013</title>
-<!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700, 800' rel='stylesheet' type='text/css'> -->
-<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,400italic' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="//use.typekit.net/ocu2ncd.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 <!--[if lt IE 9]>
     <script src="js/vendor/html5shiv.js"></script>
@@ -14,21 +14,21 @@
 
 <body>
 	<div class="menu">
-
+	<img src="images/left.jpg">
 	</div>
 	<div class="#container">
 		<div id="two-column">
 			<div class="mod-text">
+
 				<div class="mod-center">
-					<h1>Annual Report</h1>
+					
 				</div>
-				
 			</div>
 			<div class="module_list">
 				<ul class="unstyled">
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
+							<img class="thumb" src="images/img110-1.jpg">
 							<h3 class="title">Awarding Commitment</h3>
 							<span class="dept">Counseling Service</span>
 							<p class="excerpt">Attending college is not only about excelling academically, but also using those skills outside of the classroom.</p>
@@ -37,7 +37,7 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
+							<img class="thumb" src="images/img110-2.jpg">
 							<h3 class="title">Spirit and Sportsmanship</h3>
 							<span class="dept">Disibility Services</span>
 							<p class="excerpt">In the 2012-2013 academic year, Hawks Nest unveiled brand new membership benefits for students.</p>
@@ -46,7 +46,7 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
+							<img class="thumb" src="images/img110-3.jpg">
 							<h3 class="title">Leadership Intro Course</h3>
 							<span class="dept">Center for Student Involvement and Leadership</span>
 							<p class="excerpt">Students at the UI can learn what it means to be in a leadership position and develop a personal leadership style in the academic leadership classes.</p>
@@ -55,7 +55,7 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
+							<img class="thumb" src="images/img110-4.jpg">
 							<h3 class="title">Promoting Diversity and Inclusion on Campus</h3>
 							<span class="dept">Student Health and Wellness</span>
 							<p class="excerpt">“The Mirage” raises awareness for World Aids Day, provides free HIV testing during the event, and promotes diversity and inclusion on campus.</p>
@@ -64,7 +64,7 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
+							<img class="thumb" src="images/img110-5.jpg">
 							<h3 class="title">Welcoming 50 New Student Organizations</h3>
 							<span class="dept">Center for Student Involvement and Leadership</span>
 							<p class="excerpt">The Center for Student Involvement added over 50 student organizations during the 2012-2013 school year.</p>
@@ -73,8 +73,8 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Beach Body Boot Camp</h3>
+							<img class="thumb" src="images/img110-6.jpg">
+							<h3 class="title">Beach Body Bootcamp</h3>
 							<span class="dept">Recreational Services</span>
 							<p class="excerpt">Beach Body Boot Camp is a 45-minute workout based on circuit training for UI community members.</p>
 						</a>
@@ -82,17 +82,17 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Mollis Commodo Cursus Egestas</h3>
-							<span class="dept">Vestibulum Vulputate Pharetra</span>
-							<p class="excerpt">Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+							<img class="thumb" src="images/img110-1.jpg">
+							<h3 class="title">Awareness Advocates Help Students With Eating Disorders</h3>
+							<span class="dept">University Counseling Services</span>
+							<p class="excerpt">Eating Disorder Awareness Advocates is a group of student volunteers that reaches out to students regarding eating disorders and body image issues.</p>
 						</a>
 					</li>
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Vulputate Tortor Nibh Nullam</h3>
+							<img class="thumb" src="images/img110-2.jpg">
+							<h3 class="title">Pitch A Tent And They Will Come</h3>
 							<span class="dept">Ipsum Consectetur</span>
 							<p class="excerpt">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
 						</a>
@@ -100,8 +100,8 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Etiam Porta Consectetur</h3>
+							<img class="thumb" src="images/img110-3.jpg">
+							<h3 class="title">The Finkbine Tradition Continues</h3>
 							<span class="dept">Egestas Dapibus Venenatis</span>
 							<p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 						</a>
@@ -109,8 +109,9 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Mollis Ornare Tellus</h3>
+							<img class="thumb" src="images/img110-4.jpg">
+							<h3 class="title">Fraternities and Sororities Decrease Arrest and Citation Rates
+</h3>
 							<span class="dept">Vehicula Pharetra</span>
 							<p class="excerpt">Vestibulum id ligula porta felis euismod semper.</p>
 						</a>
@@ -118,8 +119,26 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Quam Ultricies Mattis</h3>
+							<img class="thumb" src="images/img110-5.jpg">
+							<h3 class="title">Less Water, Less Waste</h3>
+							<span class="dept">Venenatis Condimentum Sollicitudin</span>
+							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+						</a>
+					</li>
+					<hr>
+					<li>
+						<a href="#" class="sidebar_article">
+							<img class="thumb" src="images/img110-6.jpg">
+							<h3 class="title">Cultural Immersion On Campus</h3>
+							<span class="dept">Venenatis Condimentum Sollicitudin</span>
+							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+						</a>
+					</li>
+					<hr>
+					<li>
+						<a href="#" class="sidebar_article">
+							<img class="thumb" src="images/img110-1.jpg">
+							<h3 class="title">Look Once, Think Twice</h3>
 							<span class="dept">Venenatis Condimentum Sollicitudin</span>
 							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 						</a>
@@ -128,7 +147,7 @@
 					<li>
 						<a href="#" class="sidebar_article">
 							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Quam Ultricies Mattis</h3>
+							<h3 class="title">Midwest Outdoor Leadership Conference</h3>
 							<span class="dept">Venenatis Condimentum Sollicitudin</span>
 							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 						</a>
@@ -136,8 +155,8 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Quam Ultricies Mattis</h3>
+							<img class="thumb" src="images/img110-3.jpg">
+							<h3 class="title">A New Generation of Diversity</h3>
 							<span class="dept">Venenatis Condimentum Sollicitudin</span>
 							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 						</a>
@@ -145,8 +164,8 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Quam Ultricies Mattis</h3>
+							<img class="thumb" src="images/img110-4.jpg">
+							<h3 class="title">Supporting Students Through Better Sleep</h3>
 							<span class="dept">Venenatis Condimentum Sollicitudin</span>
 							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 						</a>
@@ -154,8 +173,8 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Quam Ultricies Mattis</h3>
+							<img class="thumb" src="images/img110-5.jpg">
+							<h3 class="title">Housing &amp; Dining Boosts Sustainability Efforts</h3>
 							<span class="dept">Venenatis Condimentum Sollicitudin</span>
 							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 						</a>
@@ -163,8 +182,8 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Quam Ultricies Mattis</h3>
+							<img class="thumb" src="images/img110-6.jpg">
+							<h3 class="title">The Lunar New Year Provides An Opportunity For Education and Inclusion.</h3>
 							<span class="dept">Venenatis Condimentum Sollicitudin</span>
 							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 						</a>
@@ -172,26 +191,8 @@
 					<hr>
 					<li>
 						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Quam Ultricies Mattis</h3>
-							<span class="dept">Venenatis Condimentum Sollicitudin</span>
-							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
-						</a>
-					</li>
-					<hr>
-					<li>
-						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Quam Ultricies Mattis</h3>
-							<span class="dept">Venenatis Condimentum Sollicitudin</span>
-							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
-						</a>
-					</li>
-					<hr>
-					<li>
-						<a href="#" class="sidebar_article">
-							<img class="thumb" src="images/110x110.jpg">
-							<h3 class="title">Quam Ultricies Mattis</h3>
+							<img class="thumb" src="images/img110-1.jpg">
+							<h3 class="title">Take Back the Night</h3>
 							<span class="dept">Venenatis Condimentum Sollicitudin</span>
 							<p class="excerpt">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 						</a>
@@ -215,6 +216,7 @@
 	    $(function() {
 		    var BV = new $.BigVideo();
 		    BV.init();
+		    //BV.show('vids/xmen.mp4');
 		    BV.show('vids/000016662489_HDFlashVideo.mp4');
 		});
     </script>

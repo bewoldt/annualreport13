@@ -1,7 +1,7 @@
 .menu {
 	position: relative;
 	width: 170px;
-	background: #1e1e1e;
+	background: #f8f9f8;
 	color: #bab2c7;
 	text-transform: uppercase;
 	text-align: center;
@@ -29,8 +29,11 @@
 	float: left;
 	display: table;
 	height: 100%;
+	width: 60%;
 	padding-left: 170px;
-	width: 65%;
+}
+.mod-text {
+	xbackground: url(../images/triangle-crop.png) no-repeat center top;
 }
 .mod-text .mod-center {
 	display: table-cell;
@@ -42,16 +45,15 @@
 .mod-text h1 {
 	color: #fff;
 	display: inline-block;
-	font-size: 60px;
+	font-size: 70px;
 	margin: 0;
-	padding: 60px 10px 50px;
-	border: 2px solid #fff;
 	line-height: 1;
 	text-transform: uppercase;
+	text-shadow: 0 0 5px rgba(0,0,0,.2);
 }
 .module_list {
 	height: 100%;
-	width: 35%;
+	width: 40%;
 	overflow: auto;
 	color: #bab2c7;
 	text-align: left;
@@ -86,6 +88,7 @@
 }
 .sidebar_article .title {
 	margin: 0 0 0 20%;
+	font-size: 28px;
 	font-weight: 600;
 	line-height: 1.4;
 }
