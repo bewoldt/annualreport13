@@ -1,6 +1,7 @@
 .menu {
+	border-right: 1px solid #ddd;
 	position: relative;
-	width: 170px;
+	width: 171px;
 	background: #f8f9f8;
 	color: #bab2c7;
 	text-transform: uppercase;
@@ -10,6 +11,7 @@
 	left: 0;
 	z-index: 1000;
 	position: absolute;
+	x-webkit-box-shadow: 3px 0 3px rgba(0,0,0,.1);
 }
 #container {
 	position: absolute;
@@ -29,11 +31,10 @@
 	float: left;
 	display: table;
 	height: 100%;
-	width: 60%;
-	padding-left: 170px;
+	width: 55%;
 }
-.mod-text {
-	xbackground: url(../images/triangle-crop.png) no-repeat center top;
+.homeb .mod-text {
+	width: 60%;
 }
 .mod-text .mod-center {
 	display: table-cell;
@@ -42,27 +43,22 @@
 	z-index: 2;
 	text-align: center;
 }
-.mod-text h1 {
-	color: #fff;
-	display: inline-block;
-	font-size: 70px;
-	margin: 0;
-	line-height: 1;
-	text-transform: uppercase;
-	text-shadow: 0 0 5px rgba(0,0,0,.2);
-}
 .module_list {
 	height: 100%;
-	width: 40%;
+	width: 45%;
 	overflow: auto;
 	color: #bab2c7;
 	text-align: left;
 	background: #fff;
 	float: left;
 	overflow-x: hidden;
+	padding-left: 171px;
 	-ms-overflow-x: hidden;
 	-webkit-overflow-scrolling: touch;
 	-webkit-box-shadow: -1px 0px 0px 1px rgba(0,0,0,0.1);
+}
+.homeb .module_list {
+	width: 40%;
 }
 .module_list ul {
 	
@@ -88,9 +84,8 @@
 }
 .sidebar_article .title {
 	margin: 0 0 0 20%;
-	font-size: 28px;
+	font-size: 24px;
 	font-weight: 600;
-	line-height: 1.4;
 }
 .sidebar_article:hover .title {
 	text-decoration: underline;
