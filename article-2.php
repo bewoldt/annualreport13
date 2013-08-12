@@ -1,6 +1,6 @@
 <?php include 'inc/doctype.php'; ?>
 <?php include 'inc/meta.php'; ?>
-<title>Annual Report 2013</title>
+<title>Article 2 | Annual Report 2013</title>
 <script type="text/javascript" src="//use.typekit.net/ocu2ncd.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <!--[if lt IE 9]>
@@ -40,7 +40,7 @@
 			<img src="images/excel-finkbine.jpg" alt="">
 		</div>
 		<div class="article-body">
-			<h1>The Finkbine Tradition Continues</h1>
+			<h1>Article 2</h1>
 			<div class="article-intro">
 				<p>Student Health &amp; Wellness launched their new class “Look Once, Think Twice” in Fall 2012 and is specifically designed for students who are in the presence of alcohol, but not consuming alcohol.</p>
 			</div>

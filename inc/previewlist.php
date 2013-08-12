@@ -1,7 +1,7 @@
 <div class="preview-list scroll-pane clearfix">
         <ul id="container">
             <li class="item excel">
-                <a href="#" class="preview-link">
+                <a href="/annualreport13/article.php" class="preview-link">
                     <img class="preview-thumb" src="images/img110-1.jpg">
                     <h3 class="preview-title">Propelling students forward through leadership</h3>
                     <span class="preview-dept">Center For Student Involvement and Leadership</span>
@@ -9,7 +9,7 @@
                 </a>
             </li>
             <li class="item excel">
-                <a href="#" class="preview-link">
+                <a href="/annualreport13/article-1.php" class="preview-link">
                     <img class="preview-thumb" src="images/img110-1.jpg">
                     <h3 class="preview-title">Awarding Commitment</h3>
                     <span class="preview-dept">Center For Student Involvement and Leadership</span>
@@ -17,7 +17,7 @@
                 </a>
             </li>
             <li class="item engage">
-                <a href="#" class="preview-link">
+                <a href="/annualreport13/article-2.php" class="preview-link">
                     <img class="preview-thumb" src="images/img110-2.jpg">
                     <h3 class="preview-title">Spirit and Sportsmanship</h3>
                     <span class="preview-dept">Disibility Services</span>
@@ -72,12 +72,12 @@
                     <p class="preview-excerpt">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
                 </a>
             </li>
-            <li class="item excel">
+            <li class="item serve">
                 <a href="#" class="preview-link">
-                    <img class="preview-thumb" src="images/img110-3.jpg">
+                    <img class="preview-thumb" src="images/img110-2.jpg">
                     <h3 class="preview-title">The Finkbine Tradition Continues</h3>
-                    <span class="preview-dept">Egestas Dapibus Venenatis</span>
-                    <p class="preview-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <span class="preview-dept">Ipsum Consectetur</span>
+                    <p class="preview-excerpt">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
                 </a>
             </li>
             <li class="item choose">
