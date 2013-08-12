@@ -26,7 +26,7 @@
             <li><a href="#" data-filter=".serve">Serve</a></li>
         </ul>
         <div class="pos-btm">
-            <a href="http://studentlife.uiowa.edu">
+            <a href="#">
                 <img src="images/menu_dosl.png" alt="Division of Student Life" class="menu-dosl">
             </a>
         </div>
@@ -35,7 +35,7 @@
     <!-- Preview List Include -->
     <?php include 'inc/previewlist.php'; ?>
 
-    <article class="article" data-transitional="content" data-transitional-id="default">
+    <article class="article">
 		<div class="article-img">
 			<img src="images/excel-finkbine.jpg" alt="">
 		</div>

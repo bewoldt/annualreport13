@@ -35,7 +35,7 @@
     <!-- Preview List Include -->
     <?php include 'inc/previewlist.php'; ?>
 
-    <article class="article" data-transitional="content" data-transitional-id="default">
+    <article class="article" >
 		<div class="article-img">
 			<img src="images/excel-finkbine.jpg" alt="">
 		</div>
