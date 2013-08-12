@@ -3,7 +3,6 @@
 <title>Home - Annual Report 2013</title>
 <script type="text/javascript" src="//use.typekit.net/ocu2ncd.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
 <!--[if lt IE 9]>
     <script src="js/vendor/html5shiv.js"></script>
     <script src="js/vendor/respond.min.js"></script>
@@ -14,7 +13,7 @@
 
 <body>
 	<div class="menu">
-	<img src="images/left.jpg">
+		<img src="images/left.jpg">
 	</div>
 	<div class="#container">
 		<div id="two-column">
@@ -217,7 +216,7 @@
 		    var BV = new $.BigVideo();
 		    BV.init();
 		    //BV.show('vids/xmen.mp4');
-		    BV.show('vids/000004803079_HDFlashVideo.mp4');
+		    BV.show('vids/xmen.mp4');
 		});
     </script>
 </body>
