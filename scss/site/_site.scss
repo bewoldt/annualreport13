@@ -58,13 +58,14 @@ body {
 		border-top: 1px solid #e5e5e5;
 	}
 	& a {
-		background: url(../images/tag_icon.png) no-repeat 25px 48%;
+		xbackground: url(../images/tag_icon.png) no-repeat 25px 48%;
 		color: #888;
 		display: block;
 		font-family: $heading-font;
 		font-size: 14px;
 		letter-spacing: 1px;
-		padding: 10px 0 11px 45px;
+		padding: 10px 0 11px 0;
+		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
 		&:hover {
@@ -76,6 +77,23 @@ body {
 .main-nav .active {
 	background-color: #fff;
 }
+
+/* HOME
+========================================================================== */
+.home-content {
+	margin-left: 45%;
+	height: 100%;
+	position: absolute;
+	width: 55%;
+}
+.home-content .dosl {
+	height: 187px;
+	margin: auto;
+	padding: 0 1em;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+}
+
 
 /* PREVIEW LIST
 ========================================================================== */

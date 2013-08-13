@@ -36,6 +36,10 @@
     <!-- Preview List Include -->
     <?php include 'inc/previewlist.php'; ?>
 
+    <div class="home-content">
+        <img src="images/dosl-lg.png" alt="" class="dosl" width="500">
+    </div>
+
 
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -71,9 +75,8 @@
         $(function() {
             var BV = new $.BigVideo({useFlashForFirefox:false});
             BV.init();
-            BV.show('vids/000004803079_HDFlashVideo.mp4');
+            BV.show('vids/xmen.mp4');
         });
     </script>
-    <!--<script src="js/vendor/jquery.jscrollpane.min.js"></script>-->
 </body>
 </html>

@@ -2,7 +2,7 @@
         <ul id="container">
             <li class="item excel">
                 <a href="/annualreport13/article.php" class="preview-link">
-                    <img class="preview-thumb" src="images/img110-1.jpg">
+                    <img class="preview-thumb" src="images/img110-6.jpg">
                     <h3 class="preview-title">Propelling students forward through leadership</h3>
                     <span class="preview-dept">Center For Student Involvement and Leadership</span>
                     <p class="preview-excerpt">Catalyst is a one-day event focused on developing leadership across colleges in the United States</p>
