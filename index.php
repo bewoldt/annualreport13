@@ -17,7 +17,7 @@
 <body>
 
     <div class="menu">
-        <img src="images/logo.gif">
+        <a href="index.php"><img src="images/logo.gif"></a>
         <ul id="filters" class="main-nav">
             <li><a href="#" data-filter="*" class="active">All</a></li>
             <li><a href="#" data-filter=".excel">Excel</a></li>

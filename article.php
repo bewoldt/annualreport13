@@ -39,15 +39,17 @@
 		<div class="article-img">
 			<img src="images/excel-finkbine.jpg" alt="">
 		</div>
-		<div class="article-body">
+		<div class="article-body clearfix">
 			<h1>The Finkbine Tradition Continues</h1>
-			<div class="article-intro">
-				<p>Student Health &amp; Wellness launched their new class “Look Once, Think Twice” in Fall 2012 and is specifically designed for students who are in the presence of alcohol, but not consuming alcohol.</p>
-			</div>
-			<div class="article-meta">
-				<p>WORDS BY <em id="page-article-author">Caitlin Scott</em></p>
-				<p>PHOTO BY <em>Ben Lewis</em></p>
-			</div>
+            <div class="article-head">
+                <div class="article-intro">
+                    <p>Student Health &amp; Wellness launched their new class “Look Once, Think Twice” in Fall 2012 and is specifically designed for students who are in the presence of alcohol, but not consuming alcohol.</p>
+                </div>
+                <div class="article-meta">
+                    <p>WORDS BY <em id="page-article-author">Caitlin Scott</em></p>
+                    <p>PHOTO BY <em>Ben Lewis</em></p>
+                </div>
+            </div>
 			<div class="article-content">
 				<p>The Hancher-Finkbine Medallion is one of Iowa’s most prestigious awards. Receiving the award is an honor and instills pride in its recipients. As a recent graduate and the former UISG president for the 2012-2013 academic year, Nic Pottebaum’s hard work as a campus leader was recognized at the annual Finkbine Dinner.</p>
 

@@ -1,4 +1,4 @@
-<div class="preview-list scroll-pane clearfix">
+<div class="preview-list clearfix">
         <ul id="container">
             <li class="item excel">
                 <a href="/annualreport13/article.php" class="preview-link">
